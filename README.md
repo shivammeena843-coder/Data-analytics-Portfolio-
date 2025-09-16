@@ -21,7 +21,7 @@ Skills: SQL • Power BI • Excel • Data Cleaning • Dashboards • Reportin
 ### 🔹 SQL Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Employee Data Cleaning** | Removed duplicates & NULL values, created summary views | [View Code](./SQL/employee_cleaning.sql) |
+| **Employee Data Cleaning** | Removed duplicates & NULL values, created summary views | [View Code](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/SQL/SQL_Data_Cleaning_Aggregation.sql) |
 | **Sales Analysis** | Analyzed sales trends by region & time | [View Code](./SQL/sales_analysis.sql) |
 
 ### 🔹 Power BI Dashboards
