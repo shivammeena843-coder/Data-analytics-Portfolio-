@@ -33,7 +33,7 @@ Skills: SQL • Power BI • Excel • Data Cleaning • Dashboards • Reportin
 ### 🔹 Excel Projects
 | File | Description | Download |
 |------|-------------|-----------|
-| **KPI Tracker** | Pivot Tables, Conditional Formatting, Charts | [Download File](./Excel/kpi_tracker.xlsx) |
+| **KPI Tracker** | Pivot Tables, Conditional Formatting, Charts | [Download File](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Dashboard.xlsx ) |
 | **Budget vs Actual Dashboard** | Budget analysis with interactive charts | [Download File](https://github.com/shivammeena843-coder/Data-analytics-Portfolio-/blob/main/Excelle/Excel_Sales_Chart.png) |
 
 ---
