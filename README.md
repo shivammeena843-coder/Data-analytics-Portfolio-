@@ -11,7 +11,7 @@ Hi, I’m [Shivam Meena] 👋
 I’m passionate about transforming raw data into actionable insights.  
 Skills: SQL • Power BI • Excel • Data Cleaning • Dashboards • Reporting  
 
-🔗 **LinkedIn:** [Your LinkedIn Link]  
+🔗 **LinkedIn:**[https://www.linkedin.com/in/contact-shivam-meena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]  
 📧 **Email:** [shivammeena843@gmail.com]
 
 ---
