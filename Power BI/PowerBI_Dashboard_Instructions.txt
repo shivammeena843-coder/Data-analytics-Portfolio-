@@ -1,0 +1,13 @@
+# Dummy Power BI Dashboard Instructions
+
+This is a placeholder for your Power BI Dashboard.
+Steps to create:
+1. Open Power BI Desktop.
+2. Import 'Excel_Sales_Dashboard.xlsx' dataset.
+3. Create visuals:
+    - Bar chart of Monthly Sales
+    - Card visuals of Total Sales and Total Profit
+    - Slicer by Region
+4. Save file as 'Sales_Dashboard.pbix'
+5. Publish to Power BI Service.
+6. Copy and paste public link in your portfolio README.md
