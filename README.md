@@ -1,6 +1,6 @@
-# Data Analytics Portfolio
+# Data Analytics 
 
-Welcome to my **Data Analytics Portfolio**! This repository contains my practical work in **SQL, Power BI, and Excel**, demonstrating my skills in **data cleaning, analysis, visualization, and reporting**.  
+ This repository contains my practical work in **SQL, Power BI, and Excel**, demonstrating my skills in **data cleaning, analysis, visualization, and reporting**.  
 
 ## 🛠️ Projects & Skills Overview
 
