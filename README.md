@@ -14,7 +14,7 @@
   Advanced Excel work including **pivot tables, charts, interactive dashboards, KPI trackers, and budget vs. actual analysis**, emphasizing **data visualization** and **reporting efficiency**.
 
 - **Certificates:**  
-  Verified certifications in **SQL, Power BI, and Excel**, highlighting my **continuous learning, skill development, and proficiency** in data analytics tools and techniques.
+  Verified certifications in **SQL, Power BI, Introduction generative AI,and Excel**, highlighting my **continuous learning, skill development, and proficiency** in data analytics tools and techniques.
 
   ---
 
